@@ -1,0 +1,12 @@
+INFO 2024-06-10 11:39:23,353 autoreload 5392 8519289856Watching for file changes with StatReloader
+INFO 2024-06-10 11:41:12,813 autoreload 5433 8519289856Watching for file changes with StatReloader
+INFO 2024-06-10 11:44:40,679 autoreload 5433 8519289856/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Специализация/Django/hw/myproject/myproject/settings.py changed, reloading.
+INFO 2024-06-10 11:44:40,845 autoreload 5489 8519289856Watching for file changes with StatReloader
+INFO 2024-06-10 11:45:26,435 autoreload 5489 8519289856/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Специализация/Django/hw/myproject/myproject/settings.py changed, reloading.
+INFO 2024-06-10 11:45:26,585 autoreload 5501 8519289856Watching for file changes with StatReloader
+INFO 2024-06-10 11:47:52,808 autoreload 5518 8519289856Watching for file changes with StatReloader
+INFO 2024-06-10 11:48:29,314 autoreload 5518 8519289856/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Специализация/Django/hw/myproject/myapp/apps.py changed, reloading.
+INFO 2024-06-10 11:48:29,498 autoreload 5526 8519289856Watching for file changes with StatReloader
+INFO 2024-06-10 11:48:51,588 basehttp 5526 6197145600"GET / HTTP/1.1" 200 122
+INFO 2024-06-10 11:49:08,999 basehttp 5526 6197145600"GET /about HTTP/1.1" 301 0
+INFO 2024-06-10 11:49:09,001 basehttp 5526 6213971968"GET /about/ HTTP/1.1" 200 188

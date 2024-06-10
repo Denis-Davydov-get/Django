@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+lec/*
+sem/sem1/.DS_Store
+sem/.DS_Store
+hw/.DS_Store
+sem/video/
+sem/sem1/myproject/.DS_Store
+hw/myproject/.DS_Store
+hw/myproject/myapp/.DS_Store
+
