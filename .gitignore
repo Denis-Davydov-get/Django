@@ -8,4 +8,7 @@ sem/video/
 sem/sem1/myproject/.DS_Store
 hw/myproject/.DS_Store
 hw/myproject/myapp/.DS_Store
+hw/myproject/myapp/__pycache__/*
+hw/myproject/myproject/__pycache__/*
+venv
 

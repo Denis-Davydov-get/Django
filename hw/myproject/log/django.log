@@ -10,3 +10,11 @@ INFO 2024-06-10 11:48:29,498 autoreload 5526 8519289856Watching for file changes
 INFO 2024-06-10 11:48:51,588 basehttp 5526 6197145600"GET / HTTP/1.1" 200 122
 INFO 2024-06-10 11:49:08,999 basehttp 5526 6197145600"GET /about HTTP/1.1" 301 0
 INFO 2024-06-10 11:49:09,001 basehttp 5526 6213971968"GET /about/ HTTP/1.1" 200 188
+INFO 2024-06-11 04:12:22,205 autoreload 10694 8519289856Watching for file changes with StatReloader
+INFO 2024-06-11 04:12:56,668 autoreload 10694 8519289856/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/Django/hw/myproject/myproject/settings.py changed, reloading.
+INFO 2024-06-11 04:12:56,860 autoreload 10709 8519289856Watching for file changes with StatReloader
+INFO 2024-06-11 04:12:59,434 autoreload 10715 8519289856Watching for file changes with StatReloader
+INFO 2024-06-11 04:13:02,214 basehttp 10715 6159233024"GET / HTTP/1.1" 200 122
+WARNING 2024-06-11 04:13:03,001 log 10715 6159233024Not Found: /favicon.ico
+WARNING 2024-06-11 04:13:03,001 basehttp 10715 6159233024"GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-06-11 04:19:16,971 autoreload 10811 8519289856Watching for file changes with StatReloader
