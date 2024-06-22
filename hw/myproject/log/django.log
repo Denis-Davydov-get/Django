@@ -29,3 +29,20 @@ WARNING 2024-06-22 07:23:52,630 log 12336 6199947264Not Found: /favicon.ico
 WARNING 2024-06-22 07:23:52,630 basehttp 12336 6199947264"GET /favicon.ico HTTP/1.1" 404 2441
 INFO 2024-06-22 08:09:47,985 autoreload 13001 8270613504Watching for file changes with StatReloader
 INFO 2024-06-22 08:12:45,812 autoreload 13020 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 09:07:35,951 autoreload 13567 8270613504Watching for file changes with StatReloader
+WARNING 2024-06-22 09:07:39,397 log 13567 6163460096Not Found: /
+WARNING 2024-06-22 09:07:39,397 basehttp 13567 6163460096"GET / HTTP/1.1" 404 2166
+WARNING 2024-06-22 09:07:39,519 log 13567 6163460096Not Found: /favicon.ico
+WARNING 2024-06-22 09:07:39,520 basehttp 13567 6163460096"GET /favicon.ico HTTP/1.1" 404 2217
+WARNING 2024-06-22 09:07:47,594 log 13567 6163460096Not Found: /h3
+WARNING 2024-06-22 09:07:47,595 basehttp 13567 6163460096"GET /h3 HTTP/1.1" 404 2190
+WARNING 2024-06-22 09:07:56,965 log 13567 6163460096Not Found: /h3/
+WARNING 2024-06-22 09:07:56,966 basehttp 13567 6163460096"GET /h3/ HTTP/1.1" 404 2193
+WARNING 2024-06-22 09:08:15,475 log 13567 6163460096Not Found: /hw3/
+WARNING 2024-06-22 09:08:15,475 basehttp 13567 6163460096"GET /hw3/ HTTP/1.1" 404 2436
+INFO 2024-06-22 09:08:20,948 basehttp 13567 6163460096"GET /hw3/hello HTTP/1.1" 301 0
+INFO 2024-06-22 09:08:20,952 basehttp 13567 6180286464"GET /hw3/hello/ HTTP/1.1" 200 26
+INFO 2024-06-22 09:11:35,813 autoreload 13567 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 09:11:36,018 autoreload 13624 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 09:12:41,010 autoreload 13624 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/urls.py changed, reloading.
+INFO 2024-06-22 09:12:41,194 autoreload 13651 8270613504Watching for file changes with StatReloader
