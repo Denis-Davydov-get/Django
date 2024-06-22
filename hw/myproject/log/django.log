@@ -22,3 +22,10 @@ INFO 2024-06-20 10:17:46,711 autoreload 5220 12280Watching for file changes with
 INFO 2024-06-20 10:17:50,014 basehttp 5220 5448"GET / HTTP/1.1" 200 122
 WARNING 2024-06-20 10:17:50,210 log 5220 5448Not Found: /favicon.ico
 WARNING 2024-06-20 10:17:50,211 basehttp 5220 5448"GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-06-22 07:21:10,398 autoreload 12312 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 07:23:45,035 autoreload 12336 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 07:23:52,600 basehttp 12336 6199947264"GET / HTTP/1.1" 200 122
+WARNING 2024-06-22 07:23:52,630 log 12336 6199947264Not Found: /favicon.ico
+WARNING 2024-06-22 07:23:52,630 basehttp 12336 6199947264"GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-06-22 08:09:47,985 autoreload 13001 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 08:12:45,812 autoreload 13020 8270613504Watching for file changes with StatReloader

@@ -4,38 +4,44 @@ from django.db import models
 class User(models.Model):
     name = models.CharField(max_length=100)
     email = models.EmailField()
-    password = models.CharField(max_length=100)
-    age = models.IntegerField()
+    phone = models.IntegerField()
+    address = models.CharField(max_length=100)
+    date_create = models.DateField(auto_now_add=True, null=True)
 
     def __str__(self):
         return (f'Username: {self.name}, '
                 f'email: {self.email}, '
-                f'age:{self.age}')
+                f'phone:{self.phone}'
+                f'address:{self.address}'
+                f'date_create:{self.date_create}'
+                )
 
 
 class Product(models.Model):
     product_name = models.CharField(max_length=100)
-    price = models.DecimalField(max_digits=8, decimal_places=2)
     description = models.TextField()
-    image = models.ImageField(upload_to='products/')
+    price = models.DecimalField(max_digits=8, decimal_places=2)
+    count_product = models.IntegerField(default=0)
+    date_create = models.DateField(auto_now_add=True, null=True)
 
     def __str__(self):
-        return (f'Productname: {self.product_name}, '
-                f'price: {self.price}, '
-                f'description:{self.description}'
-                f'image:{self.image}'
+        return (f'product_name: {self.product_name}, '
+                f'description: {self.description}, '
+                f'price:{self.price}'
+                f'count_product:{self.count_product}'
+                f'date_create:{self.date_create}'
                 )
 
 
 class Order(models.Model):
     customer = models.ForeignKey(User, on_delete=models.CASCADE)
     products = models.ManyToManyField(Product)
-    date_ordered = models.DateTimeField(auto_now_add=True)
     total_price = models.DecimalField(max_digits=8, decimal_places=2)
+    date_ordered = models.DateField(auto_now_add=True, null=True)
 
     def __str__(self):
-        return (f'Ordercustomer: {self.customer}, '
+        return (f'customer: {self.customer}, '
                 f'products: {self.products}, '
-                f'date_ordered:{self.date_ordered}'
                 f'total_price:{self.total_price}'
+                f'date_ordered:{self.date_ordered}'
                 )

@@ -8,6 +8,6 @@ class Command(BaseCommand):
     def handle(self, *args, **kwargs):
         # user = User(name='John', email='john@example.com', password='secret', age=25)
         # user = User(name='Neo', email='Neo@example.com', password='secret', age=58)
-        user = User(name='Jack', email='Jack@example.com', password='secret', age=60)
+        user = User(name='Jack', email='Jack@example.com', phone=89163929781, address='Moscow')
         user.save()
         self.stdout.write(f'{user}')
