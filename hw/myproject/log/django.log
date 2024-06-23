@@ -46,3 +46,274 @@ INFO 2024-06-22 09:11:35,813 autoreload 13567 8270613504/Users/denisdavydov/Libr
 INFO 2024-06-22 09:11:36,018 autoreload 13624 8270613504Watching for file changes with StatReloader
 INFO 2024-06-22 09:12:41,010 autoreload 13624 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/urls.py changed, reloading.
 INFO 2024-06-22 09:12:41,194 autoreload 13651 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 15:51:56,010 autoreload 15933 8270613504Watching for file changes with StatReloader
+WARNING 2024-06-22 15:51:57,641 log 15933 6169423872Not Found: /
+WARNING 2024-06-22 15:51:57,641 basehttp 15933 6169423872"GET / HTTP/1.1" 404 2167
+WARNING 2024-06-22 15:52:38,822 log 15933 6169423872Not Found: /lec3/2024/06/22
+WARNING 2024-06-22 15:52:38,822 basehttp 15933 6169423872"GET /lec3/2024/06/22 HTTP/1.1" 404 2230
+WARNING 2024-06-22 15:53:09,877 log 15933 6169423872Not Found: /lec3/posts/2024/06/22
+WARNING 2024-06-22 15:53:09,877 basehttp 15933 6169423872"GET /lec3/posts/2024/06/22 HTTP/1.1" 404 2248
+WARNING 2024-06-22 15:53:24,824 log 15933 6169423872Not Found: /lec3/posts/2024
+WARNING 2024-06-22 15:53:24,825 basehttp 15933 6169423872"GET /lec3/posts/2024 HTTP/1.1" 404 2230
+WARNING 2024-06-22 15:54:18,671 log 15933 6169423872Not Found: /lec3/posts/2024
+WARNING 2024-06-22 15:54:18,671 basehttp 15933 6169423872"GET /lec3/posts/2024 HTTP/1.1" 404 2230
+WARNING 2024-06-22 15:54:25,198 log 15933 6169423872Not Found: /lec3/
+WARNING 2024-06-22 15:54:25,198 basehttp 15933 6169423872"GET /lec3/ HTTP/1.1" 404 2200
+WARNING 2024-06-22 15:54:37,807 log 15933 6169423872Not Found: /les3/
+WARNING 2024-06-22 15:54:37,807 basehttp 15933 6169423872"GET /les3/ HTTP/1.1" 404 2916
+WARNING 2024-06-22 15:54:44,929 log 15933 6169423872Not Found: /les3/2024
+WARNING 2024-06-22 15:54:44,930 basehttp 15933 6169423872"GET /les3/2024 HTTP/1.1" 404 2928
+INFO 2024-06-22 15:54:54,047 basehttp 15933 6169423872"GET /les3/posts/2024 HTTP/1.1" 301 0
+INFO 2024-06-22 15:54:54,050 basehttp 15933 6186250240"GET /les3/posts/2024/ HTTP/1.1" 200 19
+INFO 2024-06-22 15:56:08,041 basehttp 15933 6186250240"GET /les3/posts/2024/ HTTP/1.1" 200 19
+INFO 2024-06-22 15:56:18,917 basehttp 15933 6186250240"GET /les3/posts/2024/06/24 HTTP/1.1" 301 0
+INFO 2024-06-22 15:56:18,921 basehttp 15933 6169423872"GET /les3/posts/2024/06/24/ HTTP/1.1" 200 24
+INFO 2024-06-22 16:27:38,116 autoreload 15933 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:27:38,431 autoreload 16119 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:28:01,872 autoreload 16119 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:28:02,066 autoreload 16144 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:36:53,603 autoreload 16144 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:36:53,783 autoreload 16198 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:37:21,255 autoreload 16198 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:37:21,438 autoreload 16207 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:39:50,756 autoreload 16207 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:39:50,952 autoreload 16279 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:42:52,955 autoreload 16279 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 16:42:53,162 autoreload 16313 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:43:19,671 autoreload 16313 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 16:43:19,857 autoreload 16326 8270613504Watching for file changes with StatReloader
+WARNING 2024-06-22 16:43:27,210 log 16326 6202159104Not Found: /
+WARNING 2024-06-22 16:43:27,210 basehttp 16326 6202159104"GET / HTTP/1.1" 404 2166
+INFO 2024-06-22 16:43:39,399 basehttp 16326 6202159104"GET /hw3 HTTP/1.1" 301 0
+INFO 2024-06-22 16:43:39,406 basehttp 16326 6218985472"GET /hw3/ HTTP/1.1" 200 148
+INFO 2024-06-22 16:45:56,461 autoreload 16326 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 16:45:56,649 autoreload 16356 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 17:49:12,214 autoreload 16356 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 17:49:12,419 autoreload 16772 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 17:52:21,459 autoreload 16772 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/settings.py changed, reloading.
+INFO 2024-06-22 17:52:21,652 autoreload 16816 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 17:57:36,530 autoreload 16816 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 17:57:36,719 autoreload 16884 8270613504Watching for file changes with StatReloader
+WARNING 2024-06-22 17:58:32,896 log 16884 6193557504Not Found: /
+WARNING 2024-06-22 17:58:32,897 basehttp 16884 6193557504"GET / HTTP/1.1" 404 2166
+WARNING 2024-06-22 17:58:47,082 log 16884 6193557504Not Found: /h3/about
+WARNING 2024-06-22 17:58:47,082 basehttp 16884 6193557504"GET /h3/about HTTP/1.1" 404 2208
+WARNING 2024-06-22 17:58:54,765 log 16884 6193557504Not Found: /hw3/about
+WARNING 2024-06-22 17:58:54,765 basehttp 16884 6193557504"GET /hw3/about HTTP/1.1" 404 2443
+WARNING 2024-06-22 17:59:27,413 log 16884 6193557504Not Found: /hw3/about
+WARNING 2024-06-22 17:59:27,413 basehttp 16884 6193557504"GET /hw3/about HTTP/1.1" 404 2443
+INFO 2024-06-22 17:59:27,551 autoreload 16884 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 17:59:27,758 autoreload 16920 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 17:59:29,456 basehttp 16920 6130593792"GET /hw3/about HTTP/1.1" 301 0
+INFO 2024-06-22 17:59:29,461 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 191
+INFO 2024-06-22 17:59:49,168 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:19,068 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:20,807 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:23,891 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:40,840 autoreload 16966 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:01:43,300 basehttp 16966 6164033536"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:58,240 basehttp 16966 6164033536"GET /hw3/ HTTP/1.1" 200 421
+INFO 2024-06-22 18:04:56,967 autoreload 16966 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/urls.py changed, reloading.
+INFO 2024-06-22 18:04:57,150 autoreload 16995 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:06:04,736 autoreload 17021 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:07:11,769 autoreload 17021 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 18:07:11,939 autoreload 17034 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:07:38,338 autoreload 17034 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/urls.py changed, reloading.
+INFO 2024-06-22 18:07:38,523 autoreload 17047 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:07:41,438 basehttp 17047 6129299456"GET / HTTP/1.1" 200 266
+INFO 2024-06-22 18:33:46,522 autoreload 17047 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 18:33:46,721 autoreload 17190 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:37:15,847 autoreload 17190 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 18:37:16,006 autoreload 17247 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:37:17,675 basehttp 17247 6194212864"GET / HTTP/1.1" 200 392
+INFO 2024-06-22 18:38:08,149 basehttp 17247 6194212864"GET / HTTP/1.1" 200 422
+INFO 2024-06-22 18:38:56,831 basehttp 17247 6194212864"GET / HTTP/1.1" 200 357
+INFO 2024-06-22 18:39:06,148 basehttp 17247 6194212864"GET / HTTP/1.1" 200 357
+INFO 2024-06-22 18:39:07,747 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 357
+INFO 2024-06-22 18:39:09,760 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 357
+INFO 2024-06-22 18:39:10,844 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 357
+INFO 2024-06-22 18:40:02,065 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 323
+INFO 2024-06-22 18:40:03,414 basehttp 17247 6194212864"GET /hw3/orders/ HTTP/1.1" 200 336
+INFO 2024-06-22 18:40:09,795 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 323
+INFO 2024-06-22 18:40:11,293 basehttp 17247 6194212864"GET /hw3/orders/ HTTP/1.1" 200 336
+INFO 2024-06-22 18:40:14,314 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 323
+INFO 2024-06-22 18:40:45,029 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 385
+INFO 2024-06-22 18:40:49,143 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 385
+INFO 2024-06-22 18:40:49,731 basehttp 17247 6194212864"GET /hw3/orders/ HTTP/1.1" 200 336
+INFO 2024-06-22 18:40:50,794 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 385
+INFO 2024-06-22 18:40:51,425 basehttp 17247 6194212864"GET /hw3/orders/ HTTP/1.1" 200 336
+INFO 2024-06-22 18:41:49,370 autoreload 17247 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 18:41:49,565 autoreload 17327 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:49:17,951 autoreload 17327 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 18:49:18,131 autoreload 17409 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 19:03:48,401 autoreload 17409 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 19:03:48,597 autoreload 17478 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 05:56:58,158 autoreload 17478 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-23 05:56:58,442 autoreload 17929 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 05:57:34,047 autoreload 17929 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 05:57:34,227 autoreload 17948 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 05:58:16,030 autoreload 17948 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 05:58:16,205 autoreload 17960 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 05:59:00,821 autoreload 17960 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 05:59:01,037 autoreload 17970 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 06:00:43,792 autoreload 17970 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 06:00:43,982 autoreload 18013 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 06:05:16,916 basehttp 18013 6129758208"GET / HTTP/1.1" 200 385
+ERROR 2024-06-23 06:05:18,664 log 18013 6129758208Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py", line 27, in orders
+    orders = get_object_or_404(Order.object.all())
+AttributeError: type object 'Order' has no attribute 'object'
+ERROR 2024-06-23 06:05:18,665 basehttp 18013 6129758208"GET /hw3/orders/ HTTP/1.1" 500 62686
+INFO 2024-06-23 06:08:49,598 autoreload 18013 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 06:08:49,777 autoreload 18130 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 06:09:30,499 autoreload 18130 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 06:09:30,672 autoreload 18141 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 06:10:04,306 autoreload 18141 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 06:10:04,487 autoreload 18162 8270613504Watching for file changes with StatReloader
+ERROR 2024-06-23 06:10:05,254 log 18162 6190034944Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py", line 28, in orders
+    return render(request, "myapp2/orders.html", {'orders': orders})
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 484, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '()' from 'order.calculate_total()'
+ERROR 2024-06-23 06:10:05,262 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 500 189362
+ERROR 2024-06-23 06:10:33,988 log 18162 6190034944Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py", line 28, in orders
+    return render(request, "myapp2/orders.html", {'orders': orders})
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 484, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '()' from 'order.calculate_total()'
+ERROR 2024-06-23 06:10:33,991 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 500 189462
+INFO 2024-06-23 06:10:47,264 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1350
+INFO 2024-06-23 06:15:11,230 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1350
+INFO 2024-06-23 06:15:12,879 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1350
+INFO 2024-06-23 06:15:23,395 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1380
+INFO 2024-06-23 06:16:04,777 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1392
+INFO 2024-06-23 06:16:58,527 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1380
+INFO 2024-06-23 06:17:18,567 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1380
+INFO 2024-06-23 06:49:30,874 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1736
+INFO 2024-06-23 06:51:16,049 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 2512
+INFO 2024-06-23 06:52:24,268 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 2780
+INFO 2024-06-23 06:52:25,568 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 2780
+INFO 2024-06-23 06:54:17,170 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1560
+INFO 2024-06-23 06:55:14,152 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1121
+INFO 2024-06-23 07:43:32,889 autoreload 18869 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 07:43:36,714 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 1869
+INFO 2024-06-23 07:44:04,026 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 1541
+INFO 2024-06-23 08:37:37,906 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3588
+INFO 2024-06-23 08:39:57,441 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3642
+INFO 2024-06-23 08:39:58,589 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3642
+INFO 2024-06-23 08:40:07,458 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3642
+INFO 2024-06-23 08:41:34,591 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:41:35,585 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:41:50,129 autoreload 19218 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 08:41:53,342 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:41:54,329 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:42:57,165 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:42:58,387 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 4479
+INFO 2024-06-23 08:43:27,326 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 3753
+INFO 2024-06-23 09:21:16,353 autoreload 19218 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/models.py changed, reloading.
+INFO 2024-06-23 09:21:16,526 autoreload 19350 8270613504Watching for file changes with StatReloader

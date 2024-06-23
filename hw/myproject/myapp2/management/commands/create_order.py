@@ -10,10 +10,9 @@ class Command(BaseCommand):
     def handle(self, *args, **kwargs):
         for i in range(1, 5):
             client = User.objects.get(id=i)
-            prods = []
-            prods = [Product.objects.get(id=random.randint(1, 5)) for _ in range(3)]
+            list_products = [Product.objects.get(id=random.randint(1,5)) for _ in range(3)]
             order = Order.objects.create(customer=client)
-            order.products.add(*prods)
+            order.products.add(*list_products)
             order.calculate_total()
             order.save()
 
