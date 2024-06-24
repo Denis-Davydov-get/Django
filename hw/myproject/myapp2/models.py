@@ -54,10 +54,3 @@ class Order(models.Model):
             total += product.price
         self.total_price = total
         self.save()
-
-    def add_product(self):
-        list_products = []
-        for product in self.products.all():
-            list_products.append(product)
-        self.products = list_products
-        self.save()

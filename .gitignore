@@ -1,5 +1,9 @@
 lec/
 sem/video/
+.DS_Store
+hw/.DS_Store
+hw/myproject/log/django.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

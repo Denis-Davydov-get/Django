@@ -6,11 +6,9 @@
 
 {% block content %}
     <div class="container">
-    <h1>{{ title }}</h1>
-
-    {% if user %}
-        {% for ord in orders  %}
-            <p>{{ord.customer.name}} - Products in Order:</p>
+        <h1>{{ title }}</h1>
+        {% for ord in order  %}
+            <p>Products in Order:</p>
             <ul>
                 {% for product in ord.products.all %}
                     <li>{{ product.product_name }} - {{ product.price }}$</li>
@@ -21,32 +19,7 @@
             <hr>
             <br>
         {% endfor %}
-<!--        <h3>Orders by last week</h3>-->
-<!--        {% for product in products_week %}-->
-<!--            {{ product.title }} <br>-->
-<!--        {% endfor %}-->
-<!--        <h3>Orders by last month</h3>-->
-<!--        {% for product in products_week %}-->
-<!--            {{ product.title }} <br>-->
-<!--        {% endfor %}-->
-<!--        <h3>Orders by last year</h3>-->
-<!--        {% for product in products_week %}-->
-<!--            {{ product.title }} <br>-->
-<!--        {% endfor %}-->
-    {% else %}
-        <ul>
-            {% for ord in orders %}
-                <h3>
-                    Order by
-                    <a href='{% url "orders" %}'>{{ ord.customer }}</a>
-                </h3>
-                <li>Total Amount: {{ ord.total_price }}$</li>
-                <li>Order Date: {{ ord.date_ordered }}</li>
-                <hr>
-                <br>
-            {% endfor %}
-        </ul>
-    {% endif %}
-</div>
+
+    </div>
 
 {% endblock %}
