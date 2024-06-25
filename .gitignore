@@ -4,6 +4,8 @@ sem/video/
 hw/.DS_Store
 hw/myproject/log/django.log
 hw/myproject/log
+log/django.log
+hw/myproject/log/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
