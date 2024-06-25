@@ -1,3 +1,5 @@
+from decimal import Decimal
+
 from django.db import models
 
 
@@ -36,7 +38,7 @@ class Product(models.Model):
 class Order(models.Model):
     customer = models.ForeignKey(User, on_delete=models.CASCADE)
     products = models.ManyToManyField(Product)
-    total_price = models.DecimalField(max_digits=8, decimal_places=2)
+    total_price = models.DecimalField(max_digits=100, decimal_places=2, default=0)
     date_ordered = models.DateField(auto_now_add=True, null=True)
 
     def __str__(self):
@@ -45,3 +47,10 @@ class Order(models.Model):
                 f'total_price:{self.total_price}'
                 f'date_ordered:{self.date_ordered}'
                 )
+
+    def calculate_total(self):
+        total = Decimal(0)
+        for product in self.products.all():
+            total += product.price
+        self.total_price = total
+        self.save()

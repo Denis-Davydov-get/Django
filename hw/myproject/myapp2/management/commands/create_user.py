@@ -3,11 +3,15 @@ from myapp2.models import User
 
 
 class Command(BaseCommand):
-    help = "Create user."
+    help = "Create client."
 
     def handle(self, *args, **kwargs):
-        # user = User(name='John', email='john@example.com', password='secret', age=25)
-        # user = User(name='Neo', email='Neo@example.com', password='secret', age=58)
-        user = User(name='Jack', email='Jack@example.com', phone=89163929781, address='Moscow')
-        user.save()
-        self.stdout.write(f'{user}')
+        for i in range(1, 5):
+            user = User(
+                name=f"Client {i}",
+                email=f"example{i}@mail.com",
+                phone=7222-33-33 + i,
+                address="Spb",
+            )
+            user.save()
+        self.stdout.write(self.style.SUCCESS(f"Client:'{user}' is registered"))

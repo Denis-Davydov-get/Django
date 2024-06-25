@@ -3,12 +3,16 @@ from myapp2.models import Product
 
 
 class Command(BaseCommand):
-    help = "Create order."
+    help = "Create client."
 
     def handle(self, *args, **kwargs):
-        bottle_of_water = Product(product_name='bottle_of_water',
-                                  price=2.5,
-                                  description="bottle_of_water",
-                                  image=None)
-        bottle_of_water.save()
-        self.stdout.write(f'{bottle_of_water}')
+
+        for i in range(1, 6):
+            product = Product(
+                product_name=f"product{i}",
+                description=f"description{i}",
+                price=i * 1.1,
+                count_product=i,
+            )
+            product.save()
+        self.stdout.write(self.style.SUCCESS("Some fake products are registered"))

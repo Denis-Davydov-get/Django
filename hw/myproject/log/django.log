@@ -29,3 +29,1446 @@ WARNING 2024-06-22 07:23:52,630 log 12336 6199947264Not Found: /favicon.ico
 WARNING 2024-06-22 07:23:52,630 basehttp 12336 6199947264"GET /favicon.ico HTTP/1.1" 404 2441
 INFO 2024-06-22 08:09:47,985 autoreload 13001 8270613504Watching for file changes with StatReloader
 INFO 2024-06-22 08:12:45,812 autoreload 13020 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 09:07:35,951 autoreload 13567 8270613504Watching for file changes with StatReloader
+WARNING 2024-06-22 09:07:39,397 log 13567 6163460096Not Found: /
+WARNING 2024-06-22 09:07:39,397 basehttp 13567 6163460096"GET / HTTP/1.1" 404 2166
+WARNING 2024-06-22 09:07:39,519 log 13567 6163460096Not Found: /favicon.ico
+WARNING 2024-06-22 09:07:39,520 basehttp 13567 6163460096"GET /favicon.ico HTTP/1.1" 404 2217
+WARNING 2024-06-22 09:07:47,594 log 13567 6163460096Not Found: /h3
+WARNING 2024-06-22 09:07:47,595 basehttp 13567 6163460096"GET /h3 HTTP/1.1" 404 2190
+WARNING 2024-06-22 09:07:56,965 log 13567 6163460096Not Found: /h3/
+WARNING 2024-06-22 09:07:56,966 basehttp 13567 6163460096"GET /h3/ HTTP/1.1" 404 2193
+WARNING 2024-06-22 09:08:15,475 log 13567 6163460096Not Found: /hw3/
+WARNING 2024-06-22 09:08:15,475 basehttp 13567 6163460096"GET /hw3/ HTTP/1.1" 404 2436
+INFO 2024-06-22 09:08:20,948 basehttp 13567 6163460096"GET /hw3/hello HTTP/1.1" 301 0
+INFO 2024-06-22 09:08:20,952 basehttp 13567 6180286464"GET /hw3/hello/ HTTP/1.1" 200 26
+INFO 2024-06-22 09:11:35,813 autoreload 13567 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 09:11:36,018 autoreload 13624 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 09:12:41,010 autoreload 13624 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/urls.py changed, reloading.
+INFO 2024-06-22 09:12:41,194 autoreload 13651 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 15:51:56,010 autoreload 15933 8270613504Watching for file changes with StatReloader
+WARNING 2024-06-22 15:51:57,641 log 15933 6169423872Not Found: /
+WARNING 2024-06-22 15:51:57,641 basehttp 15933 6169423872"GET / HTTP/1.1" 404 2167
+WARNING 2024-06-22 15:52:38,822 log 15933 6169423872Not Found: /lec3/2024/06/22
+WARNING 2024-06-22 15:52:38,822 basehttp 15933 6169423872"GET /lec3/2024/06/22 HTTP/1.1" 404 2230
+WARNING 2024-06-22 15:53:09,877 log 15933 6169423872Not Found: /lec3/posts/2024/06/22
+WARNING 2024-06-22 15:53:09,877 basehttp 15933 6169423872"GET /lec3/posts/2024/06/22 HTTP/1.1" 404 2248
+WARNING 2024-06-22 15:53:24,824 log 15933 6169423872Not Found: /lec3/posts/2024
+WARNING 2024-06-22 15:53:24,825 basehttp 15933 6169423872"GET /lec3/posts/2024 HTTP/1.1" 404 2230
+WARNING 2024-06-22 15:54:18,671 log 15933 6169423872Not Found: /lec3/posts/2024
+WARNING 2024-06-22 15:54:18,671 basehttp 15933 6169423872"GET /lec3/posts/2024 HTTP/1.1" 404 2230
+WARNING 2024-06-22 15:54:25,198 log 15933 6169423872Not Found: /lec3/
+WARNING 2024-06-22 15:54:25,198 basehttp 15933 6169423872"GET /lec3/ HTTP/1.1" 404 2200
+WARNING 2024-06-22 15:54:37,807 log 15933 6169423872Not Found: /les3/
+WARNING 2024-06-22 15:54:37,807 basehttp 15933 6169423872"GET /les3/ HTTP/1.1" 404 2916
+WARNING 2024-06-22 15:54:44,929 log 15933 6169423872Not Found: /les3/2024
+WARNING 2024-06-22 15:54:44,930 basehttp 15933 6169423872"GET /les3/2024 HTTP/1.1" 404 2928
+INFO 2024-06-22 15:54:54,047 basehttp 15933 6169423872"GET /les3/posts/2024 HTTP/1.1" 301 0
+INFO 2024-06-22 15:54:54,050 basehttp 15933 6186250240"GET /les3/posts/2024/ HTTP/1.1" 200 19
+INFO 2024-06-22 15:56:08,041 basehttp 15933 6186250240"GET /les3/posts/2024/ HTTP/1.1" 200 19
+INFO 2024-06-22 15:56:18,917 basehttp 15933 6186250240"GET /les3/posts/2024/06/24 HTTP/1.1" 301 0
+INFO 2024-06-22 15:56:18,921 basehttp 15933 6169423872"GET /les3/posts/2024/06/24/ HTTP/1.1" 200 24
+INFO 2024-06-22 16:27:38,116 autoreload 15933 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:27:38,431 autoreload 16119 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:28:01,872 autoreload 16119 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:28:02,066 autoreload 16144 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:36:53,603 autoreload 16144 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:36:53,783 autoreload 16198 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:37:21,255 autoreload 16198 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:37:21,438 autoreload 16207 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:39:50,756 autoreload 16207 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 16:39:50,952 autoreload 16279 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:42:52,955 autoreload 16279 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 16:42:53,162 autoreload 16313 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 16:43:19,671 autoreload 16313 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 16:43:19,857 autoreload 16326 8270613504Watching for file changes with StatReloader
+WARNING 2024-06-22 16:43:27,210 log 16326 6202159104Not Found: /
+WARNING 2024-06-22 16:43:27,210 basehttp 16326 6202159104"GET / HTTP/1.1" 404 2166
+INFO 2024-06-22 16:43:39,399 basehttp 16326 6202159104"GET /hw3 HTTP/1.1" 301 0
+INFO 2024-06-22 16:43:39,406 basehttp 16326 6218985472"GET /hw3/ HTTP/1.1" 200 148
+INFO 2024-06-22 16:45:56,461 autoreload 16326 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 16:45:56,649 autoreload 16356 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 17:49:12,214 autoreload 16356 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 17:49:12,419 autoreload 16772 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 17:52:21,459 autoreload 16772 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/settings.py changed, reloading.
+INFO 2024-06-22 17:52:21,652 autoreload 16816 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 17:57:36,530 autoreload 16816 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 17:57:36,719 autoreload 16884 8270613504Watching for file changes with StatReloader
+WARNING 2024-06-22 17:58:32,896 log 16884 6193557504Not Found: /
+WARNING 2024-06-22 17:58:32,897 basehttp 16884 6193557504"GET / HTTP/1.1" 404 2166
+WARNING 2024-06-22 17:58:47,082 log 16884 6193557504Not Found: /h3/about
+WARNING 2024-06-22 17:58:47,082 basehttp 16884 6193557504"GET /h3/about HTTP/1.1" 404 2208
+WARNING 2024-06-22 17:58:54,765 log 16884 6193557504Not Found: /hw3/about
+WARNING 2024-06-22 17:58:54,765 basehttp 16884 6193557504"GET /hw3/about HTTP/1.1" 404 2443
+WARNING 2024-06-22 17:59:27,413 log 16884 6193557504Not Found: /hw3/about
+WARNING 2024-06-22 17:59:27,413 basehttp 16884 6193557504"GET /hw3/about HTTP/1.1" 404 2443
+INFO 2024-06-22 17:59:27,551 autoreload 16884 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 17:59:27,758 autoreload 16920 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 17:59:29,456 basehttp 16920 6130593792"GET /hw3/about HTTP/1.1" 301 0
+INFO 2024-06-22 17:59:29,461 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 191
+INFO 2024-06-22 17:59:49,168 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:19,068 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:20,807 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:23,891 basehttp 16920 6147420160"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:40,840 autoreload 16966 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:01:43,300 basehttp 16966 6164033536"GET /hw3/about/ HTTP/1.1" 200 255
+INFO 2024-06-22 18:01:58,240 basehttp 16966 6164033536"GET /hw3/ HTTP/1.1" 200 421
+INFO 2024-06-22 18:04:56,967 autoreload 16966 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/urls.py changed, reloading.
+INFO 2024-06-22 18:04:57,150 autoreload 16995 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:06:04,736 autoreload 17021 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:07:11,769 autoreload 17021 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 18:07:11,939 autoreload 17034 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:07:38,338 autoreload 17034 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myproject/urls.py changed, reloading.
+INFO 2024-06-22 18:07:38,523 autoreload 17047 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:07:41,438 basehttp 17047 6129299456"GET / HTTP/1.1" 200 266
+INFO 2024-06-22 18:33:46,522 autoreload 17047 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 18:33:46,721 autoreload 17190 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:37:15,847 autoreload 17190 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-22 18:37:16,006 autoreload 17247 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:37:17,675 basehttp 17247 6194212864"GET / HTTP/1.1" 200 392
+INFO 2024-06-22 18:38:08,149 basehttp 17247 6194212864"GET / HTTP/1.1" 200 422
+INFO 2024-06-22 18:38:56,831 basehttp 17247 6194212864"GET / HTTP/1.1" 200 357
+INFO 2024-06-22 18:39:06,148 basehttp 17247 6194212864"GET / HTTP/1.1" 200 357
+INFO 2024-06-22 18:39:07,747 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 357
+INFO 2024-06-22 18:39:09,760 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 357
+INFO 2024-06-22 18:39:10,844 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 357
+INFO 2024-06-22 18:40:02,065 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 323
+INFO 2024-06-22 18:40:03,414 basehttp 17247 6194212864"GET /hw3/orders/ HTTP/1.1" 200 336
+INFO 2024-06-22 18:40:09,795 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 323
+INFO 2024-06-22 18:40:11,293 basehttp 17247 6194212864"GET /hw3/orders/ HTTP/1.1" 200 336
+INFO 2024-06-22 18:40:14,314 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 323
+INFO 2024-06-22 18:40:45,029 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 385
+INFO 2024-06-22 18:40:49,143 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 385
+INFO 2024-06-22 18:40:49,731 basehttp 17247 6194212864"GET /hw3/orders/ HTTP/1.1" 200 336
+INFO 2024-06-22 18:40:50,794 basehttp 17247 6194212864"GET /hw3/index/ HTTP/1.1" 200 385
+INFO 2024-06-22 18:40:51,425 basehttp 17247 6194212864"GET /hw3/orders/ HTTP/1.1" 200 336
+INFO 2024-06-22 18:41:49,370 autoreload 17247 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 18:41:49,565 autoreload 17327 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 18:49:17,951 autoreload 17327 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 18:49:18,131 autoreload 17409 8270613504Watching for file changes with StatReloader
+INFO 2024-06-22 19:03:48,401 autoreload 17409 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-22 19:03:48,597 autoreload 17478 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 05:56:58,158 autoreload 17478 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/urls.py changed, reloading.
+INFO 2024-06-23 05:56:58,442 autoreload 17929 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 05:57:34,047 autoreload 17929 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 05:57:34,227 autoreload 17948 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 05:58:16,030 autoreload 17948 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 05:58:16,205 autoreload 17960 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 05:59:00,821 autoreload 17960 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 05:59:01,037 autoreload 17970 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 06:00:43,792 autoreload 17970 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 06:00:43,982 autoreload 18013 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 06:05:16,916 basehttp 18013 6129758208"GET / HTTP/1.1" 200 385
+ERROR 2024-06-23 06:05:18,664 log 18013 6129758208Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py", line 27, in orders
+    orders = get_object_or_404(Order.object.all())
+AttributeError: type object 'Order' has no attribute 'object'
+ERROR 2024-06-23 06:05:18,665 basehttp 18013 6129758208"GET /hw3/orders/ HTTP/1.1" 500 62686
+INFO 2024-06-23 06:08:49,598 autoreload 18013 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 06:08:49,777 autoreload 18130 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 06:09:30,499 autoreload 18130 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 06:09:30,672 autoreload 18141 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 06:10:04,306 autoreload 18141 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py changed, reloading.
+INFO 2024-06-23 06:10:04,487 autoreload 18162 8270613504Watching for file changes with StatReloader
+ERROR 2024-06-23 06:10:05,254 log 18162 6190034944Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py", line 28, in orders
+    return render(request, "myapp2/orders.html", {'orders': orders})
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 484, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '()' from 'order.calculate_total()'
+ERROR 2024-06-23 06:10:05,262 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 500 189362
+ERROR 2024-06-23 06:10:33,988 log 18162 6190034944Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/views.py", line 28, in orders
+    return render(request, "myapp2/orders.html", {'orders': orders})
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 484, in parse
+    raise self.error(token, e)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/venv/lib/python3.9/site-packages/django/template/base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '()' from 'order.calculate_total()'
+ERROR 2024-06-23 06:10:33,991 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 500 189462
+INFO 2024-06-23 06:10:47,264 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1350
+INFO 2024-06-23 06:15:11,230 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1350
+INFO 2024-06-23 06:15:12,879 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1350
+INFO 2024-06-23 06:15:23,395 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1380
+INFO 2024-06-23 06:16:04,777 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1392
+INFO 2024-06-23 06:16:58,527 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1380
+INFO 2024-06-23 06:17:18,567 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1380
+INFO 2024-06-23 06:49:30,874 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1736
+INFO 2024-06-23 06:51:16,049 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 2512
+INFO 2024-06-23 06:52:24,268 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 2780
+INFO 2024-06-23 06:52:25,568 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 2780
+INFO 2024-06-23 06:54:17,170 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1560
+INFO 2024-06-23 06:55:14,152 basehttp 18162 6190034944"GET /hw3/orders/ HTTP/1.1" 200 1121
+INFO 2024-06-23 07:43:32,889 autoreload 18869 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 07:43:36,714 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 1869
+INFO 2024-06-23 07:44:04,026 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 1541
+INFO 2024-06-23 08:37:37,906 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3588
+INFO 2024-06-23 08:39:57,441 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3642
+INFO 2024-06-23 08:39:58,589 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3642
+INFO 2024-06-23 08:40:07,458 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3642
+INFO 2024-06-23 08:41:34,591 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:41:35,585 basehttp 18869 6194524160"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:41:50,129 autoreload 19218 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 08:41:53,342 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:41:54,329 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:42:57,165 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 3673
+INFO 2024-06-23 08:42:58,387 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 4479
+INFO 2024-06-23 08:43:27,326 basehttp 19218 6191591424"GET /hw3/orders/ HTTP/1.1" 200 3753
+INFO 2024-06-23 09:21:16,353 autoreload 19218 8270613504/Users/denisdavydov/Library/Mobile Documents/com~apple~CloudDocs/1_My_learning/Geekbrains/3. Specialization/General_Django/Django/hw/myproject/myapp2/models.py changed, reloading.
+INFO 2024-06-23 09:21:16,526 autoreload 19350 8270613504Watching for file changes with StatReloader
+INFO 2024-06-23 20:59:48,511 autoreload 19332 25836Watching for file changes with StatReloader
+INFO 2024-06-23 20:59:51,552 basehttp 19332 20608"GET / HTTP/1.1" 200 470
+WARNING 2024-06-23 20:59:51,717 log 19332 20608Not Found: /favicon.ico
+WARNING 2024-06-23 20:59:51,718 basehttp 19332 20608"GET /favicon.ico HTTP/1.1" 404 2317
+INFO 2024-06-23 20:59:55,842 basehttp 19332 20608"GET /hw3/orders/ HTTP/1.1" 200 5389
+INFO 2024-06-23 21:01:38,155 autoreload 19332 25836C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:01:38,688 autoreload 21292 25496Watching for file changes with StatReloader
+INFO 2024-06-23 21:02:57,338 autoreload 21292 25496C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:02:57,811 autoreload 6256 25404Watching for file changes with StatReloader
+INFO 2024-06-23 21:04:27,603 autoreload 6256 25404C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-23 21:04:28,062 autoreload 6580 21132Watching for file changes with StatReloader
+ERROR 2024-06-23 21:06:44,265 log 6580 23388Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 58, in orders
+    return render(request, "hw3/orders.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/orders.html
+ERROR 2024-06-23 21:06:44,267 basehttp 6580 23388"GET /hw3/orders/ HTTP/1.1" 500 93890
+ERROR 2024-06-23 21:07:12,369 log 6580 23388Internal Server Error: /hw3/orders/2
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: orders() got an unexpected keyword argument 'user_id'
+ERROR 2024-06-23 21:07:12,370 basehttp 6580 23388"GET /hw3/orders/2 HTTP/1.1" 500 64167
+ERROR 2024-06-23 21:08:01,481 log 6580 23388Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 58, in orders
+    return render(request, "hw3/orders.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/orders.html
+ERROR 2024-06-23 21:08:01,482 basehttp 6580 23388"GET /hw3/orders/ HTTP/1.1" 500 93602
+ERROR 2024-06-23 21:09:04,627 log 6580 23388Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 58, in orders
+    return render(request, "hw3/orders.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/orders.html
+ERROR 2024-06-23 21:09:04,629 basehttp 6580 23388"GET /hw3/orders/ HTTP/1.1" 500 93739
+INFO 2024-06-23 21:09:04,730 autoreload 6580 21132C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-23 21:09:05,265 autoreload 21668 12296Watching for file changes with StatReloader
+WARNING 2024-06-23 21:09:07,947 log 21668 17692Not Found: /hw3/orders/
+WARNING 2024-06-23 21:09:07,948 basehttp 21668 17692"GET /hw3/orders/ HTTP/1.1" 404 2912
+ERROR 2024-06-23 21:09:19,478 log 21668 17692Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: orders() got an unexpected keyword argument 'user_id'
+ERROR 2024-06-23 21:09:19,480 basehttp 21668 17692"GET /hw3/orders/3 HTTP/1.1" 500 64167
+INFO 2024-06-23 21:15:55,200 autoreload 21668 12296C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:15:55,745 autoreload 3960 16896Watching for file changes with StatReloader
+ERROR 2024-06-23 21:15:56,485 log 3960 8212Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: orders() got an unexpected keyword argument 'user_id'
+ERROR 2024-06-23 21:15:56,487 basehttp 3960 8212"GET /hw3/orders/3 HTTP/1.1" 500 64304
+WARNING 2024-06-23 21:16:00,134 log 3960 8212Not Found: /hw3/orders/
+WARNING 2024-06-23 21:16:00,134 basehttp 3960 8212"GET /hw3/orders/ HTTP/1.1" 404 2912
+ERROR 2024-06-23 21:16:11,051 log 3960 8212Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: orders() got an unexpected keyword argument 'user_id'
+ERROR 2024-06-23 21:16:11,052 basehttp 3960 8212"GET /hw3/orders/3 HTTP/1.1" 500 64167
+ERROR 2024-06-23 21:17:24,561 log 3960 8212Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: orders() got an unexpected keyword argument 'user_id'
+ERROR 2024-06-23 21:17:24,563 basehttp 3960 8212"GET /hw3/orders/3 HTTP/1.1" 500 64304
+INFO 2024-06-23 21:17:24,870 autoreload 3960 16896C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-23 21:17:25,362 autoreload 24056 11772Watching for file changes with StatReloader
+INFO 2024-06-23 21:17:43,060 autoreload 24056 11772C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-23 21:17:43,563 autoreload 16420 16152Watching for file changes with StatReloader
+ERROR 2024-06-23 21:17:44,156 log 16420 15804Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 35, in orders
+    today = timezone.now()
+            ^^^^^^^^
+NameError: name 'timezone' is not defined
+ERROR 2024-06-23 21:17:44,158 basehttp 16420 15804"GET /hw3/orders/3 HTTP/1.1" 500 69211
+ERROR 2024-06-23 21:18:35,164 log 16420 15804Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 35, in orders
+    today = datetime.date()
+            ^^^^^^^^
+NameError: name 'timezone' is not defined
+ERROR 2024-06-23 21:18:35,165 basehttp 16420 15804"GET /hw3/orders/3 HTTP/1.1" 500 69213
+INFO 2024-06-23 21:18:36,013 autoreload 16420 16152C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:18:36,503 autoreload 16148 14728Watching for file changes with StatReloader
+ERROR 2024-06-23 21:18:37,325 log 16148 18448Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 35, in orders
+    today = datetime.date()
+            ^^^^^^^^
+NameError: name 'datetime' is not defined
+ERROR 2024-06-23 21:18:37,326 basehttp 16148 18448"GET /hw3/orders/3 HTTP/1.1" 500 69213
+INFO 2024-06-23 21:19:22,859 autoreload 16148 14728C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:19:23,428 autoreload 26692 12880Watching for file changes with StatReloader
+INFO 2024-06-23 21:19:29,851 autoreload 26692 12880C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:19:30,363 autoreload 27568 4756Watching for file changes with StatReloader
+ERROR 2024-06-23 21:19:31,930 log 27568 24488Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 39, in orders
+    order_week = order.filter(order_date__gte=today - timedelta(days=7))
+                                                      ^^^^^^^^^
+NameError: name 'timedelta' is not defined
+ERROR 2024-06-23 21:19:31,931 basehttp 27568 24488"GET /hw3/orders/3 HTTP/1.1" 500 69706
+INFO 2024-06-23 21:19:51,412 autoreload 27568 4756C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:19:51,901 autoreload 24280 17908Watching for file changes with StatReloader
+ERROR 2024-06-23 21:19:53,655 log 24280 10504Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 39, in orders
+    order_week = order.filter(order_date__gte=today - timedelta(days=7))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'order_date' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-06-23 21:19:53,657 basehttp 24280 10504"GET /hw3/orders/3 HTTP/1.1" 500 112545
+INFO 2024-06-23 21:20:32,170 autoreload 24280 17908C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:20:32,732 autoreload 13504 4236Watching for file changes with StatReloader
+ERROR 2024-06-23 21:20:34,279 log 13504 26104Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 59, in orders
+    return render(request, "myapp/orders.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/orders.html
+ERROR 2024-06-23 21:20:34,281 basehttp 13504 26104"GET /hw3/orders/3 HTTP/1.1" 500 96082
+INFO 2024-06-23 21:20:50,528 autoreload 13504 4236C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:20:51,037 autoreload 8600 22916Watching for file changes with StatReloader
+ERROR 2024-06-23 21:20:52,514 log 8600 17536Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 59, in orders
+    return render(request, "orders.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: orders.html
+ERROR 2024-06-23 21:20:52,516 basehttp 8600 17536"GET /hw3/orders/3 HTTP/1.1" 500 95962
+INFO 2024-06-23 21:22:15,238 autoreload 8600 22916C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:22:15,802 autoreload 11520 14980Watching for file changes with StatReloader
+INFO 2024-06-23 21:22:51,742 autoreload 11520 14980C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-23 21:22:52,298 autoreload 27280 20820Watching for file changes with StatReloader
+ERROR 2024-06-23 21:22:54,189 log 27280 5680Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 59, in orders_client
+    return render(request, "myapp2/orders.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders' with no arguments not found. 1 pattern(s) tried: ['hw3/orders/(?P<client_id>[0-9]+)\\Z']
+ERROR 2024-06-23 21:22:54,193 basehttp 27280 5680"GET /hw3/orders/3 HTTP/1.1" 500 186163
+ERROR 2024-06-23 21:23:51,735 log 27280 5680Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 29, in orders_all
+    return render(request, "myapp2/orders.html", {'orders': orders})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders' with no arguments not found. 1 pattern(s) tried: ['hw3/orders/(?P<client_id>[0-9]+)\\Z']
+ERROR 2024-06-23 21:23:51,738 basehttp 27280 5680"GET /hw3/orders/ HTTP/1.1" 500 184438
+INFO 2024-06-23 21:25:14,755 autoreload 27280 20820C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-23 21:25:15,337 autoreload 23520 18984Watching for file changes with StatReloader
+INFO 2024-06-23 21:26:57,927 basehttp 23520 13116"GET /hw3/ HTTP/1.1" 200 421
+ERROR 2024-06-23 21:27:05,223 log 23520 13116Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+    return render(request, "myapp2/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders' not found. 'orders' is not a valid view function or pattern name.
+ERROR 2024-06-23 21:27:05,227 basehttp 23520 13116"GET / HTTP/1.1" 500 143050
+INFO 2024-06-23 21:27:31,645 autoreload 23520 18984C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:27:32,178 autoreload 1568 18240Watching for file changes with StatReloader
+ERROR 2024-06-23 21:27:32,530 log 1568 26836Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+    return render(request, "myapp2/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders' not found. 'orders' is not a valid view function or pattern name.
+ERROR 2024-06-23 21:27:32,536 basehttp 1568 26836"GET / HTTP/1.1" 500 143188
+ERROR 2024-06-23 21:29:23,837 log 1568 26836Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+    return render(request, "myapp2/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders' not found. 'orders' is not a valid view function or pattern name.
+ERROR 2024-06-23 21:29:23,841 basehttp 1568 26836"GET / HTTP/1.1" 500 143188
+INFO 2024-06-23 21:31:06,953 autoreload 1568 18240C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-23 21:31:07,532 autoreload 21192 25816Watching for file changes with StatReloader
+INFO 2024-06-23 21:31:36,364 autoreload 21192 25816C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-23 21:31:36,867 autoreload 18304 19468Watching for file changes with StatReloader
+ERROR 2024-06-23 21:31:38,645 log 18304 376Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+    return render(request, "myapp2/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders' not found. 'orders' is not a valid view function or pattern name.
+ERROR 2024-06-23 21:31:38,650 basehttp 18304 376"GET / HTTP/1.1" 500 143194
+INFO 2024-06-23 21:32:49,787 autoreload 7484 22916Watching for file changes with StatReloader
+ERROR 2024-06-23 21:32:52,367 log 7484 16088Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+    return render(request, "myapp2/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders_client' with no arguments not found. 1 pattern(s) tried: ['hw3/orders/(?P<client_id>[0-9]+)\\Z']
+ERROR 2024-06-23 21:32:52,371 basehttp 7484 16088"GET / HTTP/1.1" 500 145245
+INFO 2024-06-23 21:33:28,044 autoreload 7484 22916C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:33:28,529 autoreload 11288 9036Watching for file changes with StatReloader
+INFO 2024-06-23 21:34:10,605 autoreload 11288 9036C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:34:11,090 autoreload 14292 19568Watching for file changes with StatReloader
+INFO 2024-06-23 21:35:03,297 autoreload 14292 19568C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-23 21:35:03,780 autoreload 26200 21196Watching for file changes with StatReloader
+ERROR 2024-06-23 21:35:05,582 log 26200 21776Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+    return render(request, "myapp2/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2024-06-23 21:35:05,586 basehttp 26200 21776"GET / HTTP/1.1" 500 143236
+INFO 2024-06-24 11:27:29,066 autoreload 26200 21196C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 11:34:20,765 autoreload 21080 13764Watching for file changes with StatReloader
+ERROR 2024-06-24 11:34:23,877 log 21080 23484Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+    return render(request, "myapp2/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2024-06-24 11:34:23,884 basehttp 21080 23484"GET / HTTP/1.1" 500 143268
+WARNING 2024-06-24 11:34:24,070 log 21080 23484Not Found: /favicon.ico
+WARNING 2024-06-24 11:34:24,071 basehttp 21080 23484"GET /favicon.ico HTTP/1.1" 404 2317
+ERROR 2024-06-24 11:36:08,001 log 21080 23484Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+    return render(request, "myapp2/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2024-06-24 11:36:08,004 basehttp 21080 23484"GET / HTTP/1.1" 500 143434
+ERROR 2024-06-24 11:43:33,511 log 21080 14340Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 24, in index
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2024-06-24 11:43:33,514 basehttp 21080 14340"GET / HTTP/1.1" 500 141335
+INFO 2024-06-24 11:43:33,526 autoreload 21080 13764C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 11:43:34,248 autoreload 25784 1868Watching for file changes with StatReloader
+INFO 2024-06-24 11:45:00,111 autoreload 25784 1868C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-24 11:45:00,632 autoreload 9556 10576Watching for file changes with StatReloader
+INFO 2024-06-24 11:45:02,534 basehttp 9556 21636"GET / HTTP/1.1" 200 421
+INFO 2024-06-24 11:45:23,572 autoreload 9556 10576C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 11:45:24,320 autoreload 6260 13656Watching for file changes with StatReloader
+INFO 2024-06-24 11:45:26,510 basehttp 6260 11836"GET / HTTP/1.1" 200 414
+ERROR 2024-06-24 11:45:34,354 log 6260 11836Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 15, in orders
+    orders = Order.odject.all()
+             ^^^^^^^^^^^^
+AttributeError: type object 'Order' has no attribute 'odject'
+ERROR 2024-06-24 11:45:34,356 basehttp 6260 11836"GET /hw3/orders/ HTTP/1.1" 500 67588
+INFO 2024-06-24 11:47:40,603 basehttp 6260 11836"GET / HTTP/1.1" 200 414
+INFO 2024-06-24 11:47:40,619 autoreload 6260 13656C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 11:47:41,163 autoreload 9988 20860Watching for file changes with StatReloader
+ERROR 2024-06-24 11:47:41,839 log 9988 15772Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 13, in orders
+    orders = Order.odject.all()
+             ^^^^^^^^^^^^
+AttributeError: type object 'Order' has no attribute 'odject'
+ERROR 2024-06-24 11:47:41,841 basehttp 9988 15772"GET /hw3/orders/ HTTP/1.1" 500 67588
+INFO 2024-06-24 12:02:42,491 autoreload 10972 20656Watching for file changes with StatReloader
+INFO 2024-06-24 12:02:49,087 basehttp 10972 13104"GET / HTTP/1.1" 200 381
+INFO 2024-06-24 12:06:59,881 autoreload 10972 20656C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:07:00,391 autoreload 14680 4792Watching for file changes with StatReloader
+ERROR 2024-06-24 12:07:00,685 log 14680 23484Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 13, in orders
+    orders_list = [Order.odject.all()]
+                   ^^^^^^^^^^^^
+AttributeError: type object 'Order' has no attribute 'odject'
+ERROR 2024-06-24 12:07:00,686 basehttp 14680 23484"GET /hw3/orders/ HTTP/1.1" 500 67619
+INFO 2024-06-24 12:07:12,932 autoreload 14680 4792C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:07:13,516 autoreload 24032 20988Watching for file changes with StatReloader
+INFO 2024-06-24 12:09:29,386 autoreload 24032 20988C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:09:29,853 autoreload 4868 14768Watching for file changes with StatReloader
+INFO 2024-06-24 12:09:39,322 autoreload 4868 14768C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:09:39,807 autoreload 15620 10712Watching for file changes with StatReloader
+INFO 2024-06-24 12:28:56,303 autoreload 15620 10712C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:28:56,841 autoreload 25524 12440Watching for file changes with StatReloader
+INFO 2024-06-24 12:30:22,859 autoreload 25524 12440C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:30:23,402 autoreload 5448 1104Watching for file changes with StatReloader
+ERROR 2024-06-24 12:30:25,429 log 5448 17808Internal Server Error: /hw3/orders/
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 39, in orders
+    return render(request, "hw3/orders.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: hw3/orders.html
+ERROR 2024-06-24 12:30:25,431 basehttp 5448 17808"GET /hw3/orders/ HTTP/1.1" 500 94091
+INFO 2024-06-24 12:30:40,168 autoreload 5448 1104C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:30:40,691 autoreload 26484 23256Watching for file changes with StatReloader
+INFO 2024-06-24 12:30:42,462 basehttp 26484 1584"GET /hw3/orders/ HTTP/1.1" 200 4690
+WARNING 2024-06-24 12:31:42,906 log 26484 1584Not Found: /hw3/orders/2
+WARNING 2024-06-24 12:31:42,908 basehttp 26484 1584"GET /hw3/orders/2 HTTP/1.1" 404 2554
+INFO 2024-06-24 12:32:03,809 autoreload 26484 23256C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\urls.py changed, reloading.
+INFO 2024-06-24 12:32:04,309 autoreload 22644 11556Watching for file changes with StatReloader
+ERROR 2024-06-24 12:32:08,077 log 22644 26776Internal Server Error: /hw3/orders/2
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 15, in orders
+    order = Order.objects.filter(buyer=client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'buyer' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-06-24 12:32:08,080 basehttp 22644 26776"GET /hw3/orders/2 HTTP/1.1" 500 124259
+INFO 2024-06-24 12:33:02,880 autoreload 22644 11556C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:33:03,479 autoreload 26756 18600Watching for file changes with StatReloader
+INFO 2024-06-24 12:33:04,251 basehttp 26756 21388"GET /hw3/orders/ HTTP/1.1" 200 495
+INFO 2024-06-24 12:33:15,916 basehttp 26756 21388"GET /hw3/orders/ HTTP/1.1" 200 495
+INFO 2024-06-24 12:33:16,064 autoreload 26756 18600C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:33:16,601 autoreload 22564 19636Watching for file changes with StatReloader
+INFO 2024-06-24 12:33:24,241 basehttp 22564 20304"GET /hw3/orders/ HTTP/1.1" 200 4690
+ERROR 2024-06-24 12:33:36,256 log 22564 20304Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 15, in orders
+    order = Order.objects.filter(buyer=client)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'buyer' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-06-24 12:33:36,259 basehttp 22564 20304"GET /hw3/orders/3 HTTP/1.1" 500 124125
+INFO 2024-06-24 12:34:12,267 autoreload 22564 19636C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:34:12,976 autoreload 27016 17368Watching for file changes with StatReloader
+ERROR 2024-06-24 12:34:15,353 log 27016 11136Internal Server Error: /hw3/orders/3
+Traceback (most recent call last):
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py", line 16, in orders
+    today = timezone.now()
+            ^^^^^^^^^^^^
+AttributeError: type object 'datetime.timezone' has no attribute 'now'
+ERROR 2024-06-24 12:34:15,356 basehttp 27016 11136"GET /hw3/orders/3 HTTP/1.1" 500 69552
+INFO 2024-06-24 12:35:10,603 autoreload 27016 17368C:\Users\slim2\iCloudDrive\1_My_learning\Geekbrains\3. Specialization\General_Django\Django\hw\myproject\myapp2\views.py changed, reloading.
+INFO 2024-06-24 12:35:11,147 autoreload 9556 19796Watching for file changes with StatReloader
+INFO 2024-06-24 12:35:12,812 basehttp 9556 17748"GET /hw3/orders/3 HTTP/1.1" 200 1510
+INFO 2024-06-24 12:48:31,053 basehttp 9556 2388"GET /hw3/orders/3 HTTP/1.1" 200 1549
+INFO 2024-06-24 12:48:50,217 basehttp 9556 2388"GET /hw3/orders/3 HTTP/1.1" 200 1605
+INFO 2024-06-24 12:49:06,340 basehttp 9556 2388"GET /hw3/orders/ HTTP/1.1" 200 5091
+INFO 2024-06-24 12:51:12,856 basehttp 9556 2388"GET /hw3/orders/ HTTP/1.1" 200 4976
+INFO 2024-06-24 12:51:19,917 basehttp 9556 2388"GET /hw3/orders/ HTTP/1.1" 200 4976
+INFO 2024-06-24 12:51:21,434 basehttp 9556 2388"GET /hw3/orders/ HTTP/1.1" 200 5145
