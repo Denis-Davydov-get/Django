@@ -25,6 +25,7 @@ class Product(models.Model):
     price = models.DecimalField(max_digits=8, decimal_places=2)
     count_product = models.IntegerField(default=0)
     date_create = models.DateField(auto_now_add=True, null=True)
+    image_product = models.ImageField(null=True)
 
     def __str__(self):
         return (f'product_name: {self.product_name}, '
@@ -54,3 +55,6 @@ class Order(models.Model):
             total += product.price
         self.total_price = total
         self.save()
+
+
+
