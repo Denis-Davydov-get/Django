@@ -2,7 +2,7 @@ from django.views import View
 from django.http import HttpResponse
 from django.shortcuts import render, get_object_or_404
 from myapp2.models import Order, User
-from datetime import date, timedelta, datetime
+from datetime import  timedelta, datetime
 
 
 def index(request):

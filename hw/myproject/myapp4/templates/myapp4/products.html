@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+            <ul>
+                {% for product in products %}
+                    <li>
+                        product_name - {{ product.product_name }}.<br>
+                        description - {{product.description}}.<br>
+                        price - {{ product.price }}$.<br>
+                        count_product - {{ product.count_product }}.<br>
+                        date_create- {{ product.date_create }}.<br>
+                        image_product - {{ product.image_product }}.<br>
+                    </li>
+               {% endfor %}
+            </ul>
+            <hr>
+            <br>
+
+{% endblock %}
