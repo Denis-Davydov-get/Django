@@ -7,9 +7,16 @@
                         product_name - {{ product.product_name }}.<br>
                         description - {{product.description}}.<br>
                         price - {{ product.price }}$.<br>
-                        count_product - {{ product.count_product }}.<br>
+                        quantity - {{ product.quantity }}.<br>
+
+                        rating- {{ product.rating }}.<br>
+                        product.image_product -
+                        {% if product.image_product %}
+                            {{product.image_product}}<br>
+                        {% else %}
+                            No image
+                        {% endif %}
                         date_create- {{ product.date_create }}.<br>
-                        image_product - {{ product.image_product }}.<br>
                     </li>
                {% endfor %}
             </ul>
