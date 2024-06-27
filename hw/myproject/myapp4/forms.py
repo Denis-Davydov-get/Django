@@ -30,7 +30,7 @@ class ProductForm(forms.Form):
             attrs={"class": "form-control", "placeholder": "Введите цену"}
         ),
     )
-    count_product = forms.IntegerField(
+    quantity = forms.IntegerField(
         label="Количество товара",
         min_value=0,
         initial=0,

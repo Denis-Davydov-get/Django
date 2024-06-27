@@ -6,7 +6,6 @@
 
 {% block content %}
     <div class="container">
-    <h1>{{ title }}</h1>
 
     {% if client %}
         {% for ord in order  %}
@@ -25,7 +24,7 @@
         <h3>Orders by last week</h3>
         {% for product in products_week %}
             {{ product.product_name }} -
-            {{ product.count_product }} -
+            {{ product.quantity }} -
             {{ product.price }}$<br>
         {% endfor %}
 
@@ -49,7 +48,7 @@
                     <a href='{% url "orders" ord.customer.id %}'>{{ ord.customer }}</a>
                 </h3>
                 <li>Total Amount: {{ ord.total_price }}$</li>
-                <li>Order Date: {{ ord.date_create }}</li>
+                <li>Order Date: {{ ord.date_ordered }}</li>
                 <hr>
                 <br>
             {% endfor %}

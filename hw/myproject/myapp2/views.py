@@ -1,12 +1,14 @@
-from django.views import View
-from django.http import HttpResponse
+import logging
+from datetime import timedelta, datetime
+
 from django.shortcuts import render, get_object_or_404
 from myapp2.models import Order, User
-from datetime import  timedelta, datetime
+
+logger = logging.getLogger(__name__)
 
 
 def index(request):
-    return render(request, "base.html")
+    return render(request, "myapp2/index.html", {"title": "Homepage"})
 
 
 def orders(request, client_id: int = None):
