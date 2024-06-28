@@ -17,12 +17,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
-from myapp2.views import index
-
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("", include('myapp2.urls')),
     path("hw3/", include('myapp2.urls')),
     path('hw4/', include('myapp4.urls')),
     path('hw5/', include('myapp5.urls')),
+    # path('__debug__/', include("debug_toolbar.urls")),
+
 ]
