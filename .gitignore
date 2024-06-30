@@ -1,11 +1,10 @@
 lec/
 sem/video/
 .DS_Store
-hw/.DS_Store
-hw/myproject/log/django.log
-hw/myproject/log
+myproject/log/django.log
+myproject/log
 log/django.log
-hw/myproject/log/
+myproject/log/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
